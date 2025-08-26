@@ -1,0 +1,10 @@
+{
+  "author": "Gabriel Miguel",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "typescript-require": "^0.3.0"
+  }
+}
